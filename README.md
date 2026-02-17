@@ -4,7 +4,7 @@
   </a>
 </p>
 
-I'm a 3rd year student at Epitech Lyon, passionate about software development applied to robotics.
+I'm a 4th year AI Master student at Jonkoping University and EPITECH, passionate about software development applied to robotics.
 My journey in tech has led me to explore the depths of artificial intelligence, robotics, embedded systems with object-oriented or imperative programming.
 I am constantly eager to learn and take on new challenges that expand my understanding and skills.
 
@@ -34,13 +34,10 @@ I work with a range of languages and tools to build, debug, and maintain project
 - **DBeaver** (for database inspection)
 
 ## 📂 My Projects
-Here are some projects that showcase my journey and interests:
+You will find on Sentience Robotics repositories projects that showcase my journey and interests:
+[**Sentience Robotics**](https://github.com/Sentience-Robotics)
 
-- [**InmoovROS2**](https://github.com/charlesmadjeri/inmoov-ros2-firmware) - Inmoov 3d printed robot C++ firmware alternative implementing ROS2 and Nvidia Isaac Lab.
-- [**MarineMind Robotics**](https://github.com/ASM-Studios/marinemind-robotics-aquabot) - Automation of an unmanned surface vehicle (USV) for wind turbine inspection.
-- [**R-Type**](https://github.com/ASM-Studios/R-Type) - Creation of a C++ game engine inspired by an arcade game classic.
-
-## 📫 Connect with Me
+## 📫 Connect with me
 
 <a href="https://www.linkedin.com/in/charles-madjeri/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn logo">
